@@ -21,14 +21,11 @@ ACPI tables, DRAM init flows, GPIOv2 registers, power states (S0ix), and everyth
 Outside work, I rebuild my fundamentals, experiment with microcontrollers, and document my growth openly.
 
 🔧 Skill Set
-<table> <tr> <td valign="top" width="33%">
 🖥️ Languages
-<a href="https://github.com/syugendran"> <div align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,py,cs&perline=4" /> </div> </a> </td> <td valign="top" width="33%">
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,py&perline=6" /> </p>
 ⚙️ Firmware / Embedded
-<a href="https://github.com/syugendran"> <div align="center"> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake,linux,qt&perline=4" /> </div> </a> </td> <td valign="top" width="33%">
+<p align="center"> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,cmake,qt&perline=6" /> </p>
 🛠️ Tools & Platforms
-<a href="https://github.com/syugendran"> <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&perline=4" /> </div> </a> </td> </tr> <tr> <td valign="top" width="33%">
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&perline=6" /> </p>
 🧪 Automation & Scripting
-<a href="https://github.com/syugendran"> <div align="center"> <img src="https://skillicons.dev/icons?i=py,bash,powershell&perline=3" /> </div> </a> </td> <td valign="top" width="33%">
-📚 Other Relevant Skills
-<a href="https://github.com/syugendran"> <div align="center"> <img src="https://skillicons.dev/icons?i=linux,cmake,regex,arduino&perline=4" /> </div> </a> </td> </tr> </table>
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,bash,powershell&perline=6" /> </p>
