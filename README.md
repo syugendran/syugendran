@@ -20,12 +20,12 @@ Most days, I’m knee-deep in low-level debugging:
 ACPI tables, DRAM init flows, GPIOv2 registers, power states (S0ix), and everything between UEFI and silicon.
 Outside work, I rebuild my fundamentals, experiment with microcontrollers, and document my growth openly.
 
-🔧 Skill Set
-🖥️ Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,py&perline=6" /> </p>
-⚙️ Firmware / Embedded
-<p align="center"> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,cmake,qt&perline=6" /> </p>
-🛠️ Tools & Platforms
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&perline=6" /> </p>
-🧪 Automation & Scripting
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,bash,powershell&perline=6" /> </p>
+<p align="center">🛠️ <b>Skill Set</b></p>
+<p align="center">🖥️ <b>Languages</b></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,py&theme=dark&perline=8" /> </p>
+<p align="center">⚙️ <b>Firmware / Embedded</b></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,cmake,qt&theme=dark&perline=8" /> </p>
+<p align="center">🔧 <b>Tools & Platforms</b></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&theme=dark&perline=8" /> </p>
+<p align="center">🧪 <b>Automation & Scripting</b></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,bash,powershell&theme=dark&perline=8" /> </p>
