@@ -1,16 +1,22 @@
-## Hi there 👋
+🚀 Hi, I'm Yugendran — Firmware Engineer (BIOS / SlimBootloader) | Embedded Hobbist
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=syugendran&label=Visitors&color=blue&style=flat" alt="visitor badge"/> </p>
 
-<!--
-**syugendran/syugendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Friedrich Wilhelm Nietzsche said:
 
-Here are some ideas to get you started:
+"I know of no better life purpose than to perish in attempting the great and impossible.
+The fact that something seems impossible shouldn't be a reason to not pursue it —
+that's exactly what makes it worth pursuing.
+Where would the courage and greatness be if success was certain and there was no risk?
+The only true failure is shrinking away from life's challenges."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is the line I live by.
+This is why I build things that scare me.
+This is why I choose firmware — the layer where excuses die and the machine tells the truth.
+
+🧠 About Me
+
+I’m a firmware engineer working on BIOS and Slim Bootloader (SBL) for next-generation Intel platforms.
+Most days, I’m knee-deep in low-level debugging:
+ACPI tables, DRAM init flows, GPIOv2 registers, power states (S0ix), and everything between UEFI and silicon.
+Outside work, I rebuild my fundamentals, experiment with microcontrollers, and document my growth openly.
+
