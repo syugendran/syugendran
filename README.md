@@ -20,12 +20,13 @@ Most days, I’m knee-deep in low-level debugging:
 ACPI tables, DRAM init flows, GPIOv2 registers, power states (S0ix), and everything between UEFI and silicon.
 Outside work, I rebuild my fundamentals, experiment with microcontrollers, and document my growth openly.
 
-<p align="center">🛠️ <b>Skill Set</b></p>
-<p align="center">🖥️ <b>Languages</b></p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,py&theme=dark&perline=8" /> </p>
-<p align="center">⚙️ <b>Firmware / Embedded</b></p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,cmake,qt&theme=dark&perline=8" /> </p>
-<p align="center">🔧 <b>Tools & Platforms</b></p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&theme=dark&perline=8" /> </p>
-<p align="center">🧪 <b>Automation & Scripting</b></p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,bash,powershell&theme=dark&perline=8" /> </p>
+🔧 Skill Set
+<table> <tr> <td valign="top" width="50%">
+🖥️ Languages
+<a href="https://github.com/syugendran"> <div align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,py&perline=4" /> </div> </a> </td> <td valign="top" width="50%">
+⚙️ Firmware / Embedded
+<a href="https://github.com/syugendran"> <div align="center"> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake,linux,qt&perline=5" /> </div> </a> </td> </tr> <tr> <td valign="top" width="50%">
+🛠️ Tools & Platforms
+<a href="https://github.com/syugendran"> <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&perline=4" /> </div> </a> </td> <td valign="top" width="50%">
+🧪 Automation & Scripting
+<a href="https://github.com/syugendran"> <div align="center"> <img src="https://skillicons.dev/icons?i=py,bash,powershell&perline=3" /> </div> </a> </td> </tr> </table>
