@@ -49,23 +49,6 @@ When I'm not analyzing logic analyzer traces or debugging DRAM init flows, I'm b
 
 </div>
 
----
-
-### 🚀 Engineering Highlights
-
-#### 🏢 Professional Work (Intel)
-*   **UEFI & Boot Architecture:** Deep expertise in the full boot flow (**SEC → PEI → DXE → Payload**). Successfully integrated new modules and managed stage handoffs in **EDK2**.
-*   **Power Management:** Debugged complex **S0ix/S3** power state transitions and optimized **GPIOv2** configurations (interrupts, ACPI drivers) for power efficiency.
-*   **Validation Automation:** Developed a **C#/Python** automation tool for batch-running `.efi` tests, which was adopted by customer validation teams in China to streamline their workflows.
-*   **Process Improvement:** Authored a comprehensive graduate onboarding plan and internal documentation, reducing new hire ramp-up time by **~6 months**.
-*   **Low-Level Bring-up:** Hands-on experience with **PCIe, MMIO programming**, and system initialization in both Linux and Windows environments.
-
-#### ⚡ Personal Projects & Exploration
-*   **Bare Metal Playground:** Writing drivers from scratch for **I²C, SPI, and UART** on STM32 and Raspberry Pi platforms.
-*   **Low-Level Debugging:** Utilizing logic analyzers and serial interfaces to debug hardware-software interactions.
-*   **Tooling:** Converting Python-based validation flows into C to run natively within the UEFI Shell.
-
----
 
 <div align="center">
   <i>Let's connect and talk about firmware, embedded systems, or the impossible challenges of low-level programming.</i>
